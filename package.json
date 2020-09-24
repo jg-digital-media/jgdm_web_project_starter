@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/jg-digital-media/web_project_starter/issues"
   },
-  "homepage": "https://github.com/jg-digital-media/web_project_starter#readme"
+  "homepage": "https://github.com/jg-digital-media/web_project_starter#readme",
+  "devDependencies": {
+    "jquery": "^3.5.1"
+  }
 }
