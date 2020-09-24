@@ -1,0 +1,29 @@
+{
+  "name": "jgdm_web_starter",
+  "version": "1.0.0",
+  "description": "Starting off your web project with a set of npm packages for the most popular JS frameworks\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jg-digital-media/web_project_starter.git"
+  },
+  "keywords": [
+    "npm",
+    "starter",
+    "jquery",
+    "vue",
+    "phaser",
+    "express",
+    "node",
+    "angular"
+  ],
+  "author": "@jg_digitalMedia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jg-digital-media/web_project_starter/issues"
+  },
+  "homepage": "https://github.com/jg-digital-media/web_project_starter#readme"
+}
