@@ -1,13 +1,31 @@
 /*Sass
 
-Last updated: 24/09/2020
+Last updated: 25/09/2020
 */
 * {
   padding: 0;
-  margin: 0;
-  border: black solid 1px; }
+  margin: 0; }
 
 body {
   background: lightblue; }
+
+header {
+  background: lightgray;
+  height: 75px; }
+  header h1 {
+    text-align: center; }
+
+#container {
+  display: block;
+  margin: 0 auto;
+  width: 300px; }
+  #container h2 {
+    text-align: center; }
+  #container p {
+    line-height: 1.4;
+    margin-bottom: 10px; }
+
+footer p {
+  text-align: center; }
 
 /*# sourceMappingURL=style.css.map */
