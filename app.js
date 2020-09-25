@@ -1,10 +1,17 @@
 console.log("connected");
 
-const { JSDOM } = require( "jsdom" );
-const { window } = new JSDOM( "" );
-const $ = require( "jquery" )( window );
+//import { jquery } from "jquery";
+import jquery from "jquery";
 
+//const { JSDOM } = require( "jsdom" );
+var jsdom = require("jsdom").jsdom;
+global.$ = require('jquery/dist/jquery')(jsdom().createWindow());
+const jquery = require( "jquery" );
 
+//jjj
 $("p").style.color("red");
+
+//export const jquery;
+//export default jquery;
 
 modules.export = jquery;
