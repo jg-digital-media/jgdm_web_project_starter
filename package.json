@@ -33,7 +33,9 @@
     "jquery": "^3.5.1",
     "jsdom": "^16.4.0",
     "phaser": "^3.24.1",
-    "vue": "^3.0.0"
+    "slick-carousel": "^1.8.1",
+    "vue": "^3.0.0",
+    "webpack": "^4.44.2"
   },
   "dependencies": {
     "node": "^14.12.0",
