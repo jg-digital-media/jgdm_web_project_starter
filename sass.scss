@@ -1,6 +1,6 @@
 /*Sass
 
-Last updated: 29/09/2020
+Last updated: 30/09/2020
 */
 
 * {
@@ -14,25 +14,36 @@ body {
 }
 
 header {
-    background: lightgray;
-    height: 75px;
+    background: black;
+    border-bottom: white 3px solid;
+    color: white;
+    height: 72px;
+
     h1 {
         text-align: center;
     }
 }
 
+
+h2 {
+    text-align: center;
+    padding-top: 15px;
+}
+
 #container {
     display: block;
     margin: 0 auto;
-    width: 300px;
-
-    h2 {
-        text-align: center;
-    }
+    width: 400px;
 
     p {
         line-height: 1.4;
         margin-bottom: 10px;
+    }
+
+    p:first-child {
+        font-weight: bold; 
+        line-height: 1.9;
+        margin-top: 10px;
     }
 
 }
