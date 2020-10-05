@@ -11,6 +11,7 @@ Last updated: 30/09/2020
 body {
 
     background: lightblue;
+    font-family: verdana;
 }
 
 header {
@@ -18,9 +19,16 @@ header {
     border-bottom: white 3px solid;
     color: white;
     height: 72px;
+    height: auto;
 
     h1 {
         text-align: center;
+    }
+
+    img {
+        width: 75px;
+        display: block;
+        margin: 10px auto;
     }
 }
 
@@ -28,21 +36,23 @@ header {
 h2 {
     text-align: center;
     padding-top: 15px;
+    height: 50px;
 }
 
 #container {
     display: block;
     margin: 0 auto;
     width: 400px;
+    font-size: 13px;
 
     p {
-        line-height: 1.4;
+        line-height: 1.9;
         margin-bottom: 10px;
     }
 
     p:first-child {
         font-weight: bold; 
-        line-height: 1.9;
+        line-height: 2.4;
         margin-top: 10px;
     }
 
@@ -51,5 +61,8 @@ h2 {
 footer {
     p {
         text-align: center;
+        font-size: 10px;
+        margin-top: 10px;
+        font-weight: bold;
     }
 }
