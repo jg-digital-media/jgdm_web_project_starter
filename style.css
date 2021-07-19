@@ -1,6 +1,6 @@
 /*Sass
 
-Last updated: 30/09/2020
+Last updated: 19/07/2021
 */
 * {
   padding: 0;
@@ -40,11 +40,19 @@ h2 {
     font-weight: bold;
     line-height: 2.4;
     margin-top: 10px; }
+  #container ul li {
+    left: 30px;
+    position: relative;
+    line-height: 1.9; }
 
 footer p {
   text-align: center;
   font-size: 10px;
   margin-top: 10px;
   font-weight: bold; }
+  footer p a {
+    color: red; }
+    footer p a:hover {
+      text-decoration: none; }
 
 /*# sourceMappingURL=style.css.map */

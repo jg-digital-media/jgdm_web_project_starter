@@ -1,6 +1,6 @@
 /*Sass
 
-Last updated: 30/09/2020
+Last updated: 19/07/2021
 */
 
 * {
@@ -56,6 +56,15 @@ h2 {
         margin-top: 10px;
     }
 
+    ul {       
+
+        li {
+            left: 30px;
+            position: relative;
+            line-height: 1.9;
+        }
+    }
+
 }
 
 footer {
@@ -64,5 +73,14 @@ footer {
         font-size: 10px;
         margin-top: 10px;
         font-weight: bold;
+
+        a {
+
+            color: red;
+            
+            &:hover {
+                text-decoration: none;
+            }
+        }
     }
 }
