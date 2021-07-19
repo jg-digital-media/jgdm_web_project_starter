@@ -1,5 +1,8 @@
-# web_project_starter
+# JGDM Web Project Starter - **Last update:** 19-07-2021
 
+Welcome to "Web Project Starter" by Jonnie Grieve Digital Media. This is my web starter repository. You can use it if you wish to kick start your own web projects. It contains a number of NPM packages to get you started, including Angular, Vue, jQuery and React.js.
+
+Or you can simply expand on the CSS and HTML file provided.  You're set up to use SASS if you wish but you can also just use a standard CSS file.
 
 ## JS Package list
 
@@ -13,6 +16,8 @@
 + **Slick Carousel** - ```npm install -g slick-carousel``` - Slick 1.8.1 included
 + **react.js** - ```npm install -g react``` - React 16.13.1 included
 + **webpack** - ```npm install -g webpack``` - Webpack 4.44.2 included
+
+You can install these to your system by going to the ```web_project_starter``` root directory and typing ```npm install``` in your console.
 
 ## NPM Instructions
 
