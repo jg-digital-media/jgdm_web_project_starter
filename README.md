@@ -1,8 +1,13 @@
-# JGDM Web Project Starter - **Last update:** 19-07-2021
+# JGDM Web Project Starter - **Last update:** 16-02-2022
 
-Welcome to "Web Project Starter" by Jonnie Grieve Digital Media. This is my web starter repository. You can use it if you wish to kick start your own web projects. It contains a number of NPM packages to get you started, including Angular, Vue, jQuery and React.js.
+Welcome to "Web Project Starter" by Jonnie Grieve Digital Media. 
 
-Or you can simply expand on the CSS and HTML file provided.  You're set up to use SASS if you wish but you can also just use a standard CSS file.
+
+## Setup and Usage
+
+This is my web starter repository. You can use it if you wish to kick start your own web projects. It contains a number of NPM packages to get you started, including Angular, Vue, jQuery and React.js.
+
+Or you can simply expand on the CSS and HTML file provided.  You're set up to use SASS if you wish but you can also just use a standard CSS file.  If you're using SASS use the command `sass --watch sass.scss:style.css`. 
 
 ## JS Package list
 
