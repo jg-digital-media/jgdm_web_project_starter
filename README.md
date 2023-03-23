@@ -1,10 +1,10 @@
-# JGDM Web Project Starter - **Last update:** 21-06-2022  - 14:29
+# JGDM Web Project Starter - **Last update:** 23-06-2022  - 14:29
 
 Welcome to "Web Project Starter" by Jonnie Grieve Digital Media. 
 
 ## **Sections**
 
-  + [Goals](#goals)
+  + [Setup v1](#setup-and-usage)
 
   + [Setup](#setup)
 
