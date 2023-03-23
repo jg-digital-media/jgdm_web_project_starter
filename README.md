@@ -2,8 +2,22 @@
 
 Welcome to "Web Project Starter" by Jonnie Grieve Digital Media. 
 
+## **Sections**
+
+  + [Goals](#goals)
+
+  + [Setup](#setup)
+
+  + [Code Snippets](#code-snippets)
+
+  + [Plugin List](#plugin-list)
+  
+  + [Links](#links)
+  
+  + [Log](#log)
 
 ## Setup and Usage
+[Back to Top](#sections)
 
 This is my web starter repository. You can use it if you wish to kick start your own web projects. It contains a number of NPM packages to get you started, including Angular, Vue, jQuery and React.js.
 
