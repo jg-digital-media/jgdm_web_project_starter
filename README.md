@@ -6,15 +6,13 @@ Welcome to "Web Project Starter" by Jonnie Grieve Digital Media.
 
   + [Setup v1](#setup-and-usage)
 
-  + [Setup](#setup)
+  + [JS/Node Package List](#js-package-list)
 
-  + [Code Snippets](#code-snippets)
-
-  + [Plugin List](#plugin-list)
+  + [NPM Instructions](#npm-instructions)
   
   + [Links](#links)
   
-  + [Log](#log)
+  + [Notes](#notes)
 
 ## Setup and Usage
 [Back to Top](#sections)
