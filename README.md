@@ -23,7 +23,8 @@ This is my web starter repository. You can use it if you wish to kick start your
 
 Or you can simply expand on the CSS and HTML file provided.  You're set up to use SASS if you wish but you can also just use a standard CSS file.  If you're using SASS use the command `sass --watch sass.scss:style.css`. 
 
-## JS Package list
+## JS Package List
+[Back to Top](#sections)
 
 + **jquery**  - ```npm install -g jQuery``` jquery3.5.1 included
 + **Angular** - ```npm install -g @angular/cli``` angular 10.1.3 included
@@ -39,6 +40,7 @@ Or you can simply expand on the CSS and HTML file provided.  You're set up to us
 You can install these to your system by going to the ```web_project_starter``` root directory and typing ```npm install``` in your console.
 
 ## NPM Instructions
+[Back to Top](#sections)
 
 
 ### Node installation - Make sure Node.js and NPM are installed om your system.
@@ -60,6 +62,7 @@ You can install these to your system by going to the ```web_project_starter``` r
 
 
 ## Links
+[Back to Top](#sections)
 
 + https://jquery.com/download/ (jQuery)
 + https://angular.io (Angular)
@@ -74,5 +77,6 @@ You can install these to your system by going to the ```web_project_starter``` r
 
 
 ## Notes
+[Back to Top](#sections)
 
 import jQuery
