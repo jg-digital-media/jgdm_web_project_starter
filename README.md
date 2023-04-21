@@ -1,6 +1,6 @@
-# JGDM Web Project Starter - **Last update:** 23-06-2022  - 15:31
+# JGDM Web Project Starter - **Last update:** 21-04-2023 - 08:43
 
-Welcome to "Web Project Starter" by Jonnie Grieve Digital Media. 
+Welcome to "Web Project Starter" by [Jonnie Grieve Digital Media](https://www.jonniegrieve.co.uk). 
 
 ## **Sections**
 
@@ -21,7 +21,7 @@ This is my web starter repository. You can use it if you wish to kick start your
 
 + ```cd``` to a project root directory and clone repository using ```git clone https://github.com/jg-digital-media/jgdm_web_project_starter```
 
-Or you can simply expand on the CSS and HTML file provided.  You're set up to use SASS if you wish but you can also just use a standard CSS file.  If you're using SASS use the command `sass --watch sass.scss:style.css`. 
+Or you can simply expand on the CSS and HTML file provided.  You're set up to use SASS if you wish but you can also just use a standard CSS file.  If you're using SASS, use the command `sass --watch sass.scss:style.css`. 
 
 ## JS Package List
 [Back to Top](#sections)
